@@ -9,6 +9,6 @@
   Linguagem utilizada: <a href="https://angular.dev/">Angular</a><br><br>
 ━━━━━━ • ✿ • ━━━━━━
 
-Acesse o <a href="">site</a>
+Acesse o <a href="https://portfolio-zallih.vercel.app/">site</a>
 
 </div>
