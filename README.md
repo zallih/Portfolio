@@ -1,59 +1,14 @@
-# Portifolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
+<p align="middle">•Completo•</p>
 
-## Development server
+<img align="right" alt="zallih" width="150" src="https://cdn.discordapp.com/attachments/1128416328215167096/1321231581771468862/download20241200235357.png?ex=67a08f8c&is=679f3e0c&hm=d695ef3faff4a5d109ae6689e871a260d6a40237fb3f2cb655b1b5970cfa7d10&">
+  <br><br>
+<div style="display: inline_block"><br>
+ 
+  <img align="center" alt="zallih-ptn" height="40" width="40" src="https://miro.medium.com/v2/resize:fit:1200/1*Klh1l7wkoG6PDPb9A5oCHQ.png">
+  Linguagem utilizada: <a href="https://angular.dev/">Angular</a><br><br>
+━━━━━━ • ✿ • ━━━━━━
 
-To start a local development server, run:
+Acesse o <a href="">site</a>
 
-```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+</div>
